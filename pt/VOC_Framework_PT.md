@@ -206,4 +206,4 @@ Independentemente do modelo (dedicado, compartilhado ou terceirizado), o VOC dev
 
 Este documento não representa uma publicação oficial ou endossada por qualquer organização pública ou privada. É um trabalho de caráter **aberto**, baseado em experiências e pesquisas realizadas por **Alexandre Gnutzmann**, com o objetivo de compartilhar conhecimento de forma livre e colaborativa.
 
-Sinta-se à vontade para revisar, adaptar e distribuir este conteúdo, de acordo com os termos de licenciamento mencionados a seguir.
+Sinta-se à vontade para revisar, adaptar e distribuir este conteúdo, de acordo com os termos de licenciamento CC-BY-4.0.
